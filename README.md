@@ -28,7 +28,5 @@ I'm Netsanet T., a 4th-year Computer Science student at Mekelle Institute of Tec
   - Applying AI in low-resource educational settings
 
 - 📫 How to reach me:  
-  - Telegram: [@YourTelegramHandle]  
-  - Email: your.email@example.com
-
-
+  - Telegram: @netsanet07  
+  - Email: netsanetteklegiorgis@gmail.com
