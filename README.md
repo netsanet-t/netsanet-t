@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Netsanet T., a 4th-year Computer Science student at Mekelle Institute of Technology, Mekelle University 🇪🇹. I'm passionate about building AI solutions that address real-world challenges in education, communication, and information systems.
+I'm Netsanet T., a Computer Science and Engineering Graduate from Mekelle Institute of Technology, Mekelle University 🇪🇹. I'm passionate about building AI solutions that address real-world challenges in education, communication, and information systems.
 
 - 🔭 I’m currently working on:
   - 🎓 **NEXTstep** – An AI-powered scholarship recommendation system using NLP and CV parsing
